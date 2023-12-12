@@ -23,3 +23,9 @@ class Translate():
             return parsed_html.find("translation").text
         else:
             return response_translated.text
+
+
+
+
+
+
